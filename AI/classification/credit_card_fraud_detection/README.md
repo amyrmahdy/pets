@@ -1,4 +1,4 @@
-**creditcard.parquet** has 284807 transactions (rows).
+**creditcard.parquet** (refers to : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) has 284807 transactions (rows).
 284315 Non-Fraud
 492 Fraud
 It means 0.17% of total transaction are fraud.

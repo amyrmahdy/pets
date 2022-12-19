@@ -2,5 +2,5 @@ model,score,false_negatives
 LogisticRegression,100.0,0
 RandomForestClassifier,98.9365,0
 LinearSVC,100.0,0
-SNN,84.8677,0
-RNN,75.5069,0
+SNN,83.7404,0
+LSTM RNN,71.741,0

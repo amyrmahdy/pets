@@ -1,0 +1,7 @@
+model,score,false_negatives
+LogisticRegression,95.7485,0
+LinearSVC,95.7485,0
+SNN,95.7485,0
+RandomForestClassifier,95.7485,1
+LSTM RNN,91.4971,2
+GRU RNN,93.6228,2

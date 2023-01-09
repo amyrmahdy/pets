@@ -1,0 +1,3 @@
+model,score,false_negatives
+GRU RNN,66.6667,2
+LSTM RNN,62.963,3
